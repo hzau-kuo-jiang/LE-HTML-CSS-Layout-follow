@@ -1,10 +1,12 @@
-.nav-menu{
-    text-align: right;
+.nav-menu {
+	text-align: right;
 }
-.nav-menu a{
-    text-decoration: none;
-    color: #6578ba;
+
+.nav-menu a {
+	color: #6578ba;
+	text-decoration: none;
 }
-.nav-spacing{
-    margin: 0 0 0 10px;
+
+.nav-spacing {
+	margin: 0 0 0 10px;
 }
