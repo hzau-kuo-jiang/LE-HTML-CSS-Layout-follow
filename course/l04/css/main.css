@@ -1,6 +1,10 @@
 .nav-menu{
     text-align: right;
 }
+.nav-menu a{
+    text-decoration: none;
+    color: #6578ba;
+}
 .nav-spacing{
     margin: 0 0 0 10px;
 }
